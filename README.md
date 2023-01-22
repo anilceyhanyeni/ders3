@@ -1,1 +1,1 @@
-# ders3
+Bu proje/repo ders3 ile ilgili koldarı içerir.
